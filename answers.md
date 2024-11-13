@@ -233,6 +233,31 @@ By clearly outlining who is responsible for each task and its timeline, Gantt ch
 
 ### 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
+When defining the core issues that software aims to address, it's important to consider specific challenges that directly impact the target audience’s productivity, efficiency, or overall user experience. 
+
+Below are key elements to consider for identifying and explaining the software's goals:
+
+Problem Definition: Start by clearly articulating the specific problem(s) your software solves. For example, if the software is a project management tool, the core issues could be poor task organization, lack of collaboration, and difficulty in tracking project progress.
+
+Pain Points: Describe the current pain points for users. Are they wasting time with inefficient workflows? Are they frustrated by poor user interfaces in existing tools? Specific pain points help outline why the problem is relevant.
+
+Example: Suppose your software is focused on cybersecurity awareness. The core issue may be low levels of cybersecurity awareness among non-technical employees, leading to increased risks of phishing and data breaches.
+
+#### Why These Problems are Significant to the Target Audience
+
+Impact on Productivity: If the problem reduces productivity, efficiency, or ease of use, it’s crucial to show how the software removes barriers. For instance, a tool that streamlines customer relationship management (CRM) can directly enhance sales team productivity by reducing time spent on data entry.
+
+Cost Implications: Problems that impact the audience financially are significant because the solution can directly reduce costs. For example, if your software minimizes manual work, it can reduce overhead, leading to measurable cost savings.
+
+User Experience and Satisfaction: If current solutions are frustrating or overly complex, users may seek simpler alternatives. A software solution designed with user-friendly interfaces can significantly enhance user satisfaction and adoption rates.
+
+Risk Reduction: In sectors like finance, healthcare, or cybersecurity, reducing risk is critical. A software solution that mitigates compliance risks or security vulnerabilities can be very attractive to businesses in these fields.
+
+#### Examples of Core Issues and Significance
+Project Management Software: “Teams struggle with fragmented communication and unorganized tasks, leading to missed deadlines and resource misallocation. By solving these issues, our software enables better collaboration and provides clear task oversight, crucial for organizations looking to improve project success rates.”
+
+E-commerce Analytics Tool: “Many online retailers lack insights into customer behavior and purchase trends, leading to suboptimal marketing strategies and missed revenue opportunities. Our software provides detailed analytics, enabling retailers to refine their strategies and boost sales, which is vital in a competitive e-commerce environment.”
+
 
 ### 9. How can clearly defining the problem help in developing a more effective software solution?
 
