@@ -6,10 +6,8 @@ Timely delivery is crucial in software project management because it directly im
 #### How Project Managers Can Ensure Deadlines Are Met:
 #####	Clear Goal Setting: 
 Project managers should set clear, achievable goals and milestones at the beginning of the project. This includes defining the scope, deliverables, and timeline.
-
 #####	Effective Planning: 
 A detailed project plan, breaking the project into manageable tasks and assigning realistic deadlines for each, ensures that all stakeholders understand expectations.
-
 #####	Regular Monitoring and Reporting: 
 Frequent progress checks through status meetings or tracking tools (e.g., Jira, Trello) help ensure the project is on track. Early identification of delays allows for timely interventions.
 
