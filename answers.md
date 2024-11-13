@@ -123,6 +123,15 @@ Waterfall is more appropriate for projects with well-defined, stable requirement
 
 ### 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 
+#### Methods for Ensuring Quality Assurance Throughout a Software Project:
+##### Automated Testing: Automated tests, such as unit tests, integration tests, and end-to-end tests, are written and executed automatically to check the functionality of the software.
+##### Continuous Integration/Continuous Deployment (CI/CD): CI/CD tools automatically build, test, and deploy the code every time changes are made. This ensures that errors are detected early, and the software is always in a deployable state.
+##### Code Reviews: TDD involves writing tests before the actual code is written. The development is done in short iterations where a test is written, followed by coding to make the test pass.
+##### Pair Programming: Two developers work together at one workstation—one writes the code while the other reviews and suggests improvements.
+##### Static Code Analysis: Tools analyze the codebase for potential issues, such as syntax errors, security vulnerabilities, or code style violations, without running the program.
+##### User Acceptance Testing (UAT): Before the software is released, it’s tested by the users or stakeholders to ensure it meets their expectations and requirements.
+
+
 
 ### 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 
