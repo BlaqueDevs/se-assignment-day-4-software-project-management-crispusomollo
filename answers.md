@@ -116,6 +116,9 @@ Resource-Intensive: Frequent meetings, reviews, and iterative work can increase 
 
 ### 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 
+Agile is particularly well-suited for projects that are dynamic, with frequently changing requirements or a need for iterative development and rapid delivery. Examples of projects ideal for agile include Mobile app development projects, startup products, web development, e-commerce sites and Software as a Service (SaaS) Platforms which are often in constant development, with ongoing releases and iterations. Additionally, projects involving emerging technologies or new features, such as artificial intelligence or blockchain, benefit from Agile. It allows the team to test features, gather data, and pivot if necessary, minimizing the risk of failure.
+
+
 
 ### 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 
