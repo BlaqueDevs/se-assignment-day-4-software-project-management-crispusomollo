@@ -147,7 +147,15 @@ Brand Reputation: Releasing software that is prone to bugs or crashes can damage
 
 Security: High-quality assurance includes security testing, ensuring that vulnerabilities are identified and resolved before the software is released. This is critical for protecting user data and avoiding security breaches.
 
+Scalability and Maintainability:
+Ensuring high-quality standards during development results in clean, maintainable code that can be easily scaled or modified. This is especially important as software projects grow over time.
+
 ### 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+
+Defining the project scope is a critical step in project planning because it provides a clear and shared understanding of what the project will deliver, the objectives it aims to achieve, and the boundaries within which the project will operate. 
+
+#### What is a Work Breakdown Structure (WBS), and Why is it Useful?
+A Work Breakdown Structure (WBS) is a hierarchical decomposition of the total scope of a project into smaller, more manageable components or work packages. It visually breaks down the project into tasks and sub-tasks, from the broadest project objectives to the detailed actions required to complete each task.
 
 
 ### 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
