@@ -100,7 +100,19 @@ The final product is only delivered after all phases are completed, which may ta
 
 Agile is an iterative and incremental approach to software development. It emphasizes flexibility, collaboration, and customer feedback, with an ongoing cycle of development, testing, and delivery in short, manageable chunks known as "sprints." Agile is designed to accommodate change and adapt to evolving project needs.
 
+#### Advantages of Agile Methodology:
+##### Flexibility: Agile is highly adaptable to changes in requirements, scope, or priorities throughout the project.
+##### Frequent Feedback: Regular feedback from stakeholders ensures the product meets customer needs and expectations.
+##### Faster Delivery: Delivering work in short iterations (sprints) allows for quicker releases of functional parts of the product.
+##### Continuous Improvement: Each iteration provides an opportunity to improve the product based on feedback and lessons learned.
+##### Risk Mitigation: Regular testing and iterative development reduce the risk of significant issues and errors late in the project.
 
+#### Disadvantages of Agile Methodology:
+Scope Creep: The flexibility can lead to uncontrolled changes in scope if new requirements keep emerging.
+Less Predictability: It's harder to predict the exact timeline, cost, and final outcome early in the process.
+Requires Experienced Teams: Agile requires self-managed, communicative teams, which can be challenging without the right skills.
+Limited Documentation: Agile projects tend to have less documentation than Waterfall, which can complicate long-term maintenance.
+Resource-Intensive: Frequent meetings, reviews, and iterative work can increase overhead and time investment.
 
 ### 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 
