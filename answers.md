@@ -11,17 +11,24 @@ A detailed project plan, breaking the project into manageable tasks and assignin
 #####	Regular Monitoring and Reporting: 
 Frequent progress checks through status meetings or tracking tools (e.g., Jira, Trello) help ensure the project is on track. Early identification of delays allows for timely interventions.
 
-Risk Management: Identifying potential risks (technical, resource-based, or external factors) early in the project allows for the development of mitigation strategies. Proactive problem-solving can minimize disruptions.
+##### Risk Management: 
+Identifying potential risks (technical, resource-based, or external factors) early in the project allows for the development of mitigation strategies. Proactive problem-solving can minimize disruptions.
 
-Prioritization and Scope Management: Focus on the most critical tasks first. Sometimes, delivering a minimum viable product (MVP) on time is more important than delivering a feature-complete solution. Scope creep should be managed to avoid unnecessary delays.
+##### Prioritization and Scope Management: 
+Focus on the most critical tasks first. Sometimes, delivering a minimum viable product (MVP) on time is more important than delivering a feature-complete solution. Scope creep should be managed to avoid unnecessary delays.
 
-Adequate Resource Allocation: Ensuring the project has the right skill set and enough resources at each stage of development helps avoid delays due to resource shortages.
+##### Adequate Resource Allocation: 
+Ensuring the project has the right skill set and enough resources at each stage of development helps avoid delays due to resource shortages.
 
-Agile Methodology: Adopting agile methodologies allows for more flexibility in managing changes and prioritizing tasks, improving the team's ability to adapt and deliver on time. Agile encourages iterative progress, frequent feedback, and faster problem resolution.
+##### Agile Methodology: 
+Adopting agile methodologies allows for more flexibility in managing changes and prioritizing tasks, improving the team's ability to adapt and deliver on time. Agile encourages iterative progress, frequent feedback, and faster problem resolution.
 
-Communication and Collaboration: Clear communication within the team and with stakeholders ensures everyone is on the same page. Project managers should facilitate open lines of communication to prevent misunderstandings or misaligned expectations.
+##### Communication and Collaboration: 
+Clear communication within the team and with stakeholders ensures everyone is on the same page. Project managers should facilitate open lines of communication to prevent misunderstandings or misaligned expectations.
 
-Buffer Time: It’s advisable to build some buffer time into the project schedule to account for unforeseen challenges without derailing the overall timeline.
+##### Buffer Time: 
+It’s advisable to build some buffer time into the project schedule to account for unforeseen challenges without derailing the overall timeline.
+
 
 
 ### 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
