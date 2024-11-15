@@ -233,16 +233,40 @@ By clearly outlining who is responsible for each task and its timeline, Gantt ch
 
 ### 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
-When defining the core issues that software aims to address, it's important to consider specific challenges that directly impact the target audience’s productivity, efficiency, or overall user experience. 
+I will be building a book reading app API.
 
-Below are key elements to consider for identifying and explaining the software's goals:
+### Core Issues the Software Aims to Address
 
-Problem Definition: Start by clearly articulating the specific problem(s) your software solves. For example, if the software is a project management tool, the core issues could be poor task organization, lack of collaboration, and difficulty in tracking project progress.
+1. **Lack of Centralized Book Access**  
+   - **Problem**: Readers often struggle to find a single platform that aggregates a wide range of books from different genres, authors, or sources.  
+   - **Significance**: Providing centralized access saves users time and effort, improving their reading experience and encouraging them to read more.
 
-Pain Points: Describe the current pain points for users. Are they wasting time with inefficient workflows? Are they frustrated by poor user interfaces in existing tools? Specific pain points help outline why the problem is relevant.
+2. **Limited Progress Tracking and Personalization**  
+   - **Problem**: Many existing platforms lack robust tools to track reading progress, set goals, or provide personalized recommendations based on user preferences.  
+   - **Significance**: Modern readers expect tailored experiences that cater to their interests and habits, motivating them to engage with the platform consistently.
 
-Example: Suppose your software is focused on cybersecurity awareness. The core issue may be low levels of cybersecurity awareness among non-technical employees, leading to increased risks of phishing and data breaches.
+3. **Fragmented User Experience Across Devices**  
+   - **Problem**: Users often face difficulties syncing their reading progress or preferences across multiple devices.  
+   - **Significance**: Readers want seamless transitions between devices to maintain continuity and convenience in their reading journey.
 
+4. **Limited Community Engagement and Interactivity**  
+   - **Problem**: Many apps do not provide features for sharing reviews, participating in discussions, or connecting with fellow readers.  
+   - **Significance**: Building a sense of community enhances user retention and adds value by fostering collaboration and interaction.
+
+5. **Accessibility Challenges**  
+   - **Problem**: Some platforms lack accessibility features for readers with visual impairments or other disabilities.  
+   - **Significance**: An inclusive platform can reach a broader audience and provide value to those often underserved by existing solutions.
+
+---
+
+### Why These Problems Are Significant to the Target Audience
+
+- **Convenience and Efficiency**: Readers value having a one-stop platform where they can easily find, organize, and read books without hassle.  
+- **Engagement**: Features like personalized recommendations and progress tracking keep users motivated and invested in their reading habits.  
+- **Community Building**: Social aspects like reviews, ratings, and discussions enrich the experience and encourage more active participation.  
+- **Inclusivity**: Making reading accessible to everyone, regardless of abilities or devices, aligns with the values of inclusivity and equality.  
+
+Would you like help framing this further for a project proposal or documentation?
 #### Why These Problems are Significant to the Target Audience
 
 Impact on Productivity: If the problem reduces productivity, efficiency, or ease of use, it’s crucial to show how the software removes barriers. For instance, a tool that streamlines customer relationship management (CRM) can directly enhance sales team productivity by reducing time spent on data entry.
