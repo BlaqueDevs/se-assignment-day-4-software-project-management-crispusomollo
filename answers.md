@@ -291,7 +291,7 @@ By clearly defining the problem, teams can develop software that is user-focused
 
 "My solution is a personalized, inclusive, and seamless platform designed to transform the way people engage with books. By bringing together an extensive library of titles, intelligent progress tracking, and personalized recommendations, the app fosters a more connected and enjoyable reading experience. It also enables readers to share their journeys with others through interactive community features, all while being accessible across any device.  
 
-Whether you're a casual reader or a literary enthusiast, our app simplifies access to books, enhances your reading habits, and connects you to a like-minded community."  
+Whether you're a casual reader or a literary enthusiast, the app simplifies access to books, enhances your reading habits, and connects you to a like-minded community."  
 
 ---
 
