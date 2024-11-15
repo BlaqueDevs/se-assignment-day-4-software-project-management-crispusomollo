@@ -235,7 +235,7 @@ By clearly outlining who is responsible for each task and its timeline, Gantt ch
 
 I will be building a book reading app API.
 
-### Core Issues the Software Aims to Address
+##### Core Issues the Software Aims to Address
 
 1. **Lack of Centralized Book Access**  
    - **Problem**: Readers often struggle to find a single platform that aggregates a wide range of books from different genres, authors, or sources.  
@@ -259,7 +259,7 @@ I will be building a book reading app API.
 
 ---
 
-### Why These Problems Are Significant to the Target Audience
+##### Why These Problems Are Significant to the Target Audience
 
 - **Convenience and Efficiency**: Readers value having a one-stop platform where they can easily find, organize, and read books without hassle.  
 - **Engagement**: Features like personalized recommendations and progress tracking keep users motivated and invested in their reading habits.  
